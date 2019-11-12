@@ -1,2 +1,6 @@
-# Assignment-6
-this repository contains the contents of EVA assignment 6
+# EVA Assignment-6
+Experimenting with the following
+Normal Convolution
+Separable Convolution 
+Depthwise Convolution 
+Grouped Convolution 
